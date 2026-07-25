@@ -12,6 +12,8 @@ Este contenido se publica desde el repositorio público separado `SUMINEX-catalo
 
 La tarifa mayorista se activa desde 12 unidades combinadas, incluso si pertenecen a referencias o colores distintos.
 
+Auditoría Orden 04: el repositorio contiene exclusivamente el catálogo comercial; el sistema administrativo permanece fuera de este repositorio.
+
 ## Fotografías
 
 Las 28 imágenes están en `assets/images/products/`, organizadas por referencia. Para reemplazar una fotografía conserve exactamente el nombre, extensión, carpeta y proporción del archivo existente. Los logos están en `assets/images/brand/`.
