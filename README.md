@@ -6,9 +6,11 @@ Esta carpeta contiene exclusivamente el catálogo estático publicable. No conti
 
 La entrada es `index.html` y todas las rutas son relativas, por lo que funciona bajo una ruta de proyecto como:
 
-`https://usuario.github.io/SUMINEX/`
+`https://sebasill72co.github.io/SUMINEX-catalogo-publico/`
 
-GitHub Pages debe apuntar a una fuente que publique **solo esta carpeta**. Si el repositorio administrativo permanece privado o Pages no permite seleccionar esta carpeta directamente, use una rama de publicación dedicada o solicite autorización antes de crear un repositorio público separado.
+Este contenido se publica desde el repositorio público separado `SUMINEX-catalogo-publico`. El repositorio administrativo permanece privado.
+
+La tarifa mayorista se activa desde 12 unidades combinadas, incluso si pertenecen a referencias o colores distintos.
 
 ## Fotografías
 
@@ -18,6 +20,7 @@ Después de un cambio ejecute:
 
 ```bash
 node scripts/verificar-catalogo-publico.mjs
+node scripts/probar-umbral-mayorista.mjs
 ```
 
 ## Formas de compartir

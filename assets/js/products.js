@@ -1,4 +1,4 @@
-const CONFIG = Object.freeze({ precioDetal: 20000, precioMayorista: 16000, minimoMayorista: 30 });
+const CONFIG = Object.freeze({ precioDetal: 20000, precioMayorista: 16000, minimoMayorista: 12 });
 const COLORS = [
   ['amarillo-pastel','Amarillo pastel'], ['cafe','Café'], ['azul-cielo','Azul cielo'],
   ['rosado-pastel','Rosado pastel'], ['blanco','Blanco'], ['rojo','Rojo'], ['negro','Negro']
