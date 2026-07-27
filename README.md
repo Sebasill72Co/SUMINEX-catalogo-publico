@@ -14,6 +14,8 @@ La tarifa mayorista se activa desde 12 unidades combinadas, incluso si pertenece
 
 Auditoría Orden 04: el repositorio contiene exclusivamente el catálogo comercial; el sistema administrativo permanece fuera de este repositorio.
 
+Validación Orden 05 (26/07/2026): GitHub Pages comprobado con cuatro referencias, 28 fotografías, dos logos, carrito y precio mayorista desde 12 unidades.
+
 ## Fotografías
 
 Las 28 imágenes están en `assets/images/products/`, organizadas por referencia. Para reemplazar una fotografía conserve exactamente el nombre, extensión, carpeta y proporción del archivo existente. Los logos están en `assets/images/brand/`.
